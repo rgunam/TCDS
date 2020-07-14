@@ -17,8 +17,11 @@ The TCDS script runs under Python 3 along with the following packages:
 
 ### Example
 
-You can test the code using a dataset for a RC circuit include in the repository.
+You can test the code using an impedance dataset for a dummy RC circuit. The file is in .csv format. 
 
 
-Impedance data : 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+1) Input -> Impedance data : 
+![](https://github.com/rgunam/TCDS/blob/master/nyquist_RC.png)
+
+2) Output -> TCDS: 
+![](https://github.com/rgunam/TCDS/blob/master/nyquist_RC.png)
