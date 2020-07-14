@@ -21,7 +21,11 @@ You can test the code using an impedance dataset for a dummy RC circuit. The fil
 
 
 1) Input -> Impedance data : 
+
 ![](https://github.com/rgunam/TCDS/blob/master/nyquist_RC.png)
 
+
+
 2) Output -> TCDS: 
-![](https://github.com/rgunam/TCDS/blob/master/nyquist_RC.png)
+
+![](https://github.com/rgunam/TCDS/blob/master/TCDS_RC.png)
