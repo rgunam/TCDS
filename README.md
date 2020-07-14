@@ -13,3 +13,12 @@ The TCDS script runs under Python 3 along with the following packages:
 - matplotlib (for debugging)
 - cvxpy - Go to [Home page](https://www.cvxpy.org/index.html)
 
+------
+
+### Example
+
+You can test the code using a dataset for a RC circuit include in the repository.
+
+
+Impedance data : 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
