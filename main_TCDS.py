@@ -10,7 +10,7 @@ Created on February 2020
 # This python script includes all methods for time-constant-domain spectroscopy (TCDS) 
 # for computing solutions as shown in the paper 
 #
-# "R.G. Ramírez-Chavarréa, C.Sánchez-Pérez, L. Romero-Ornelas and E. Ramón-Gallegos,
+# "R.G. Ramírez-Chavarría, C.Sánchez-Pérez, L. Romero-Ornelas and E. Ramón-Gallegos,
 #  Time-Constant-Domain Spectroscopy: An Impedance-based Method for Sensing Biological
 #  Cells in Suspension, submitted to IEEE Sensors Journal, 2020"
 #                                                                                    
